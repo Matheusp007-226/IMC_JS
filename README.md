@@ -19,7 +19,6 @@ em JSON e jogar para alimentar a tabela.
 
 # Como executar o projeto
 
-## Back end
 Pré-requisitos: Fazer o git clone ou download do projeto e possuir um Navegador web
 <b>OBS: Não possue dependências</b>
 
