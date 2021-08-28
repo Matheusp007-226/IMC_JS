@@ -9,4 +9,4 @@ bem como o objeto RegExp para criação de expressões regulares para realizar f
 em JSON e jogar para alimentar a tabela.
 
 ## Layout mobile
-![layout 1](https://github.com/Matheusp007-226/IMC_JS/assets/img/IMC_1.png) ![layout 2](https://github.com/Matheusp007-226/IMC_JS/assets/img/IMC_2.png)
+![layout 1](assets/img/IMC_1.png) ![layout 2](assets/img/IMC_2.png)
